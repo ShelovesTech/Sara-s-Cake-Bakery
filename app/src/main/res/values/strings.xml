@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="type_your_name_here">Type Your Name Here</string>
+    <string name="hello_world_from_android">Hello World From Android</string>
+    <string name="button">Button</string>
+    <string name="submit">SUBMIT</string>
+    <string name="viewoffers">ViewOffers</string>
+</resources>
